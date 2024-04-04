@@ -1,3 +1,5 @@
+https://rapidapi.com/tikapiscom/api/solver-for-captcha-with-sliding-and-rotating-objects
+
 # TikCaptcha.com: Advanced Captcha Solving for TikTok
 
 Welcome to TikCaptcha.com! We offer a highly maintained, up-to-date, and scalable API-based solution for a wide range of use cases and applications, specifically designed to tackle TikTok captcha challenges. Our service is built to support high demand, capable of handling an average of millions of calls per day for a single customer with stability and efficiency.
@@ -26,3 +28,4 @@ To start using TikCaptcha.com for your service, follow these steps:
 
 TikCaptcha.com is your ideal solution for bypassing TikTok captchas efficiently. Build your services with confidence, knowing you have a reliable captcha solving partner.
 
+https://rapidapi.com/tikapiscom/api/solver-for-captcha-with-sliding-and-rotating-objects
